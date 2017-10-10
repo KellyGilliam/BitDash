@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+.container {
+    padding: 0 2.5%;
+}
+#content {
+    position: absolute;
+    left: 40%;
+    min-width: 300px;
+}  
