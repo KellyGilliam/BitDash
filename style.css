@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: blue;
+    background-color: orange;
 }
 .container {
     padding: 0 2.5%;
@@ -9,4 +9,22 @@ body {
     position: absolute;
     left: 40%;
     min-width: 300px;
+    background-color: purple;
 }  
+#dashboard-content {
+    position: absolute;
+    left: 40%;
+    min-width: 300px;
+    background-color: purple;
+}  
+#introParagraph {
+    position: absolute;
+    padding-left: 50%;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid blueviolet;
+    background-color: aquamarine;
+  }
