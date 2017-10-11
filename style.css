@@ -27,4 +27,8 @@ body {
     height: 100px;
     border: 1px solid blueviolet;
     background-color: aquamarine;
-  }
+}
+.newsItem {
+    border: 1px solid blueviolet;
+    background-color: aquamarine;
+}
